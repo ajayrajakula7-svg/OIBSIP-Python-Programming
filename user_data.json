@@ -1,0 +1,58 @@
+[
+    {
+        "name": "c ajay ",
+        "weight": 60.0,
+        "height_cm": 167.0,
+        "bmi": 21.51,
+        "category": "Normal",
+        "date": "2026-05-16 22:33:25.828244"
+    },
+    {
+        "name": "c ajay ",
+        "weight": 60.0,
+        "height_cm": 167.0,
+        "bmi": 21.51,
+        "category": "Normal",
+        "date": "2026-05-16 22:33:26.046901"
+    },
+    {
+        "name": "c ajay ",
+        "weight": 60.0,
+        "height_cm": 167.0,
+        "bmi": 21.51,
+        "category": "Normal",
+        "date": "2026-05-16 22:33:27.534655"
+    },
+    {
+        "name": "c ajay ",
+        "weight": 60.0,
+        "height_cm": 167.0,
+        "bmi": 21.51,
+        "category": "Normal",
+        "date": "2026-05-16 22:33:27.769842"
+    },
+    {
+        "name": "ajay",
+        "weight": 60.0,
+        "height_cm": 176.0,
+        "bmi": 19.37,
+        "category": "Normal",
+        "date": "2026-05-16 22:37:18.535196"
+    },
+    {
+        "name": "ajay ",
+        "weight": 60.0,
+        "height_cm": 176.0,
+        "bmi": 19.37,
+        "category": "Normal",
+        "date": "2026-05-16 22:40:00.662529"
+    },
+    {
+        "name": "ajay",
+        "weight": 160.0,
+        "height_cm": 5.5,
+        "bmi": 52892.56,
+        "category": "Obese",
+        "date": "2026-05-21 18:51:21.930608"
+    }
+]
